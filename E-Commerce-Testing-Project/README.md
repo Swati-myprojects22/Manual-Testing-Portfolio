@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This is a practice manual testing project created to demonstrate software testing skills.
+This is a practice manual testing project created to demonstrate practical software testing skills.
 
-The project covers testing of an e-commerce website's major modules:
+The project focuses on testing the major modules of an e-commerce website.
+
+## Modules Tested
 
 - Registration
 - Login
@@ -15,20 +17,35 @@ The project covers testing of an e-commerce website's major modules:
 
 - Test Scenario Creation
 - Test Case Design
-- Test Case Execution
 - Positive & Negative Testing
+- Functional Testing
+- Test Case Execution
 - Bug Reporting
 - Regression Testing
 
-## Project Deliverables
+## Test Documentation
 
-The complete test cases and testing documentation are available in the Excel file uploaded in this repository.
+The Excel file contains:
+
+- Test Scenarios
+- Test Cases
+- Test Data
+- Expected Results
+- Actual Results
+- Test Status
+- Bug Reporting
 
 ## Tools Used
 
 - Microsoft Excel
-- Jira (for bug reporting practice)
+- Jira – Bug Reporting Practice
 
 ## Project Type
 
-Practice / Portfolio Project
+**Practice / Portfolio Project**
+
+This project was created for learning and demonstrating manual testing skills. No production/live website was used.
+
+## Project Deliverable
+
+[View E-Commerce Testing Excel File](./My_Project.xlsx)
