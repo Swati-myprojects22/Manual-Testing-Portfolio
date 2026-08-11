@@ -49,3 +49,15 @@ This project was created for learning and demonstrating manual testing skills. N
 ## Project Deliverable
 
 [View E-Commerce Testing Excel File](./My_Project.xlsx)
+
+## Jira Bug Report
+
+A bug was reported in Jira for the login module.
+
+**Bug:** User is unable to login with valid credentials  
+**Issue Key:** SCRUM-6  
+**Priority:** High
+
+### Bug Documentation
+
+![Jira Bug Report](./Jira-Bug-Report-SCRUM-6.png)
