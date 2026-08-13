@@ -16,21 +16,13 @@ This portfolio showcases my practical experience in software testing, including:
 ## Projects
 
 ### 1. E-Commerce Website Testing
-- Test cases
-- Test execution
-- Bug reports
-- Test summary
 
-### 2. API Testing
-- API requests
-- Response validation
-- Positive & negative test scenarios
+- Test case design and execution
+- Functional, smoke and regression testing
+- Jira bug reporting
+- API testing with Postman
+- Test documentation
 
-### 3. SQL Testing
-- Database queries
-- Data validation
-- Basic SQL testing
-
-## Tools & Technologies
+### Tools & Technologies
 
 Jira | Postman | MySQL | Excel | GitHub
