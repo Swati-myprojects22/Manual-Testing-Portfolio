@@ -61,3 +61,27 @@ A bug was reported in Jira for the login module.
 ### Bug Documentation
 
 ![Jira Bug Report](./Jira-Bug-Report-SCRUM-6.png)
+
+## API Testing with Postman
+
+API testing was performed using Postman to validate REST API requests and responses.
+
+### API Tests Performed
+
+* GET request – User data retrieval
+* POST request – Create new data
+* Status code validation
+* Response data validation
+* JSON request/response validation
+* Automated test assertions using Postman scripts
+
+### API Test Results
+
+* GET API: **200 OK** ✅
+* POST API: **201 Created** ✅
+* Response fields validated using Postman tests
+
+### Postman Collection
+
+[Download Postman API Testing Collection](./E-Commerce%20API%20Testing.postman_collection.json)
+
